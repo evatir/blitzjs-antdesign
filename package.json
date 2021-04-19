@@ -1,0 +1,32 @@
+{
+  "name": "@timetrackify/blitz-recipe-antd",
+  "version": "1.0.0",
+  "description": "The Blitz Recipe for installing Ant Design",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timetrackify/blitz-receipe-antd.git"
+  },
+  "keywords": [
+    "blitz",
+    "blitzjs",
+    "antd",
+    "ant design",
+    "receipe",
+    "ui framework"
+  ],
+  "author": "Carter Sprigings <carter@timetrackify.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timetrackify/blitz-receipe-antd/issues"
+  },
+  "homepage": "https://github.com/timetrackify/blitz-receipe-antd#readme",
+  "dependencies": {
+    "@blitzjs/installer": "^0.34.0",
+    "@types/jscodeshift": "0.11.0",
+    "jscodeshift": "0.11.0"
+  }
+}
