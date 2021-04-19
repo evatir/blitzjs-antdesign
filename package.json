@@ -1,6 +1,6 @@
 {
   "name": "@timetrackify/blitz-recipe-antd",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "The Blitz Recipe for installing Ant Design",
   "main": "index.ts",
   "scripts": {
