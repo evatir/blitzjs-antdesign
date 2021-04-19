@@ -21,7 +21,7 @@ export default RecipeBuilder()
   .addNewFilesStep({
     stepId: "addConfig",
     stepName: "Config files",
-    explanation: `Adds a starter blitz.config.js. NOTE: this will replace your existing config file. Make sure it is backed up if this isn't a new project.`,
+    explanation: `Adds a starter blitz.config.js. NOTE: this will replace your existing blitz.config.js and babel.config.js files. Make sure it is backed up if this isn't a new project.`,
     targetDirectory: ".",
     templatePath: join(__dirname, "templates", "config"),
     templateValues: {},
