@@ -7,7 +7,7 @@ export default RecipeBuilder()
     `This will install all necessary dependencies and configure Ant Design for use.`
   )
   .setOwner("carter@timetrackify.com")
-  .setRepoLink("https://github.com/timetrackify/blitz-receipe-antd")
+  .setRepoLink("https://github.com/timetrackify/blitz-recipe-antd")
   .addAddDependenciesStep({
     stepId: "addDeps",
     stepName: "npm dependencies",
